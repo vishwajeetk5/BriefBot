@@ -74,3 +74,9 @@ function submitData(e) {
       console.log(error.message);
     });
 }
+
+const clipBtn=document.getElementById("clip-btn");
+
+clipBtn.addEventListener("click", function() {
+  navigator.clipboard.writeText(summarizedTextArea.value);
+});
