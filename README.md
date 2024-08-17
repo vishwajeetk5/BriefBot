@@ -48,3 +48,4 @@ This AI Text Summarizer project was made possible with the help of [Postman's Pr
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+<img src="https://t.bkit.co/w_66c0efc8cc359.gif" />
